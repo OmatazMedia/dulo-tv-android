@@ -1,9 +1,9 @@
 <resources>
-    <style name="Theme.Leanback" parent="Theme.Leanback">
+    <style name="AppTheme" parent="Theme.Leanback">
         <item name="android:windowBackground">@android:color/black</item>
     </style>
 
-    <style name="Theme.Leanback.Fullscreen" parent="Theme.Leanback">
+    <style name="AppTheme.Fullscreen" parent="AppTheme">
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
